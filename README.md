@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
+
 ![WhatsApp Image 2026-02-14 at 08 59 23](https://github.com/user-attachments/assets/54fdb3a5-7cfb-446f-9edf-6956e6cf8544)
 
 
